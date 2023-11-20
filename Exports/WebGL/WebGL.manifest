@@ -3,6 +3,6 @@ CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: feature-demo_0
-      Hash: 308da6add1eaaa8ccf0c7ee0ff85a2ae
-      CRC: 3174241029
+      Hash: b358372c50f19372bb4b0491b15c15a1
+      CRC: 3338113473
       Dependencies: {}
