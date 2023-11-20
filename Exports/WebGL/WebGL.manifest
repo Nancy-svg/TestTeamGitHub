@@ -1,8 +1,0 @@
-ManifestFileVersion: 1
-CompatibilityAssetBundleManifest:
-  AssetBundleInfos:
-    Info_0:
-      Name: feature-demo_0
-      Hash: 308da6add1eaaa8ccf0c7ee0ff85a2ae
-      CRC: 3174241029
-      Dependencies: {}
