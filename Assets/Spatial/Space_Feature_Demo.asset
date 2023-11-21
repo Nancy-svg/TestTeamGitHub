@@ -23,6 +23,6 @@ MonoBehaviour:
   csharpAssembly: {fileID: 0}
   embeddedPackageAssets: []
   settings:
-    serverInstancingEnabled: 1
+    serverInstancingEnabled: 0
     serverCapacitySetting: 0
     serverInstanceCapacity: 50
